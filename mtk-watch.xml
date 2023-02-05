@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="github"
-           fetch="http://github.com/mtk-watch" />
+           fetch="http://github.com" />
   <remote  name="gitlab"
            fetch="http://gitlab.com"
            revision="refs/heads/t-alps-q0.mp1-V9.122.1" />
