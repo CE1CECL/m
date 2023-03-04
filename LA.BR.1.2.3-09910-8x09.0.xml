@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="http://git.codelinaro.org/clo/la" name="clo" review="codelinaro.org"/>
+<remote fetch="http://source.codeaurora.org/quic/la/" name="caf" review="codeaurora.org"/>
   <default remote="caf" revision="LA.BR.1.2.3_rb1.76"/>
   <project groups="pdk" name="device/asus/deb" revision="0e32bac541b31816a435562284045268f0c31a19" upstream="LA.BR.1.2.3_rb1.76"/>
   <project groups="pdk" name="device/asus/flo-kernel" revision="e8d6a140936d217d4223ab9c5f0459eec4821ad6" upstream="LA.BR.1.2.3_rb1.76"/>
