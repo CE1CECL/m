@@ -43,7 +43,7 @@
   <project groups="pdk" name="platform/bionic" path="bionic" revision="349b61732ae96eb644f7629635b4cbfc71c4b9ba" upstream="caf_migration/LA.BR.1.2.3_rb1.76"/>
   <project groups="pdk-cw-fs" name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="3c491d6efb8ff2534a6934702760a6273f197918" upstream="caf_migration/LA.BR.1.2.3_rb1.76"/>
   <project groups="pdk" name="platform/bootable/recovery" path="bootable/recovery" revision="c6301cb264ae0ebaefafd66c2751af7bc98611b8" upstream="caf_migration/LA.BR.1.2.3_rb1.76"/>
-  <project groups="pdk" name="platform/build" path="build" revision="1cce7bcc78cefe945b91c6d3e0b5d55d62b01704" upstream="caf_migration/LA.BR.1.2.3_rb1.76">
+  <project groups="pdk" name="platform/build_repo" path="build" revision="1cce7bcc78cefe945b91c6d3e0b5d55d62b01704" upstream="caf_migration/LA.BR.1.2.3_rb1.76">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project groups="cts,pdk-cw-fs" name="platform/cts" path="cts" revision="ba729944884f5228baae57c9181cc59eab8f4b17" upstream="caf_migration/LA.BR.1.2.3_rb1.76"/>

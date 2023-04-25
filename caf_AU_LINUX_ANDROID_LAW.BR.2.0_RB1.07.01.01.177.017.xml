@@ -31,7 +31,7 @@
   <project groups="pdk" name="platform/art" path="art" revision="5c91f029f7805d86cecd7ea5114ce7e9ea18e015" upstream="caf_migration/LAW.BR.2.0_rb1.8"/>
   <project groups="pdk" name="platform/bionic" path="bionic" revision="de0450a90438db48f025381e582e5c2f81eea1b6" upstream="caf_migration/LAW.BR.2.0_rb1.8"/>
   <project groups="pdk" name="platform/bootable/recovery" path="bootable/recovery" revision="1f139244d251d438918167926283621494ba37e0" upstream="caf_migration/LAW.BR.2.0_rb1.8"/>
-  <project groups="pdk" name="platform/build" path="build" revision="d330d740d51f4e5d74a5d7c4f27dbfcaa00fa35d" upstream="caf_migration/LAW.BR.2.0_rb1.8">
+  <project groups="pdk" name="platform/build_repo" path="build" revision="d330d740d51f4e5d74a5d7c4f27dbfcaa00fa35d" upstream="caf_migration/LAW.BR.2.0_rb1.8">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project groups="pdk,tradefed" name="platform/build/blueprint" path="build/blueprint" revision="41a4f8811495a0a3e260ac7342cf255c33c2005b" upstream="caf_migration/LAW.BR.2.0_rb1.8"/>

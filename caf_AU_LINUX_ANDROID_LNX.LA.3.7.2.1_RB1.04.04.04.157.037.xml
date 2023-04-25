@@ -27,7 +27,7 @@
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="3c491d6efb8ff2534a6934702760a6273f197918" upstream="caf_migration/LNX.LA.3.7.2.1_rb1"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="60d078a5924284a452a8fe739247704f8b31c754" upstream="caf_migration/LNX.LA.3.7.2.1_rb1"/>
   <project groups="pdk" name="platform/bootable/recovery" path="bootable/recovery" revision="9411f56bef2f4f7bc2a3664a4e3b06cef8be9281" upstream="caf_migration/LNX.LA.3.7.2.1_rb1"/>
-  <project groups="pdk" name="platform/build" path="build" revision="dace696f59da705f8b3ffeeb652ef0d131485bca" upstream="caf_migration/LNX.LA.3.7.2.1_rb1">
+  <project groups="pdk" name="platform/build_repo" path="build" revision="dace696f59da705f8b3ffeeb652ef0d131485bca" upstream="caf_migration/LNX.LA.3.7.2.1_rb1">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project groups="cts" name="platform/cts" path="cts" revision="2bc3103d4a28779ce75b765ac1c5ffb0ec30fdbd" upstream="caf_migration/LNX.LA.3.7.2.1_rb1"/>
