@@ -65,7 +65,7 @@
   <project name="platform/external/chromium" path="external/chromium" revision="d8d0d5cef636d5456bf5f3645959409bdc5499aa" upstream="caf_migration/LNX.LA.3.7.2.1_rb1"/>
   <project name="platform/external/chromium-libpac" path="external/chromium-libpac" revision="f34af54bcab917eb5943d1918f32d26364f45578" upstream="caf_migration/LNX.LA.3.7.2.1_rb1"/>
   <project groups="pdk" name="platform/external/chromium-trace" path="external/chromium-trace" revision="8252ae6b83ea65cf871e7981e981da07379f5a0f" upstream="caf_migration/LNX.LA.3.7.2.1_rb1"/>
-  <project name="platform/external/chromium_org" path="external/chromium_org" revision="82e609236e9a89a9bcdbba921063e123f6f8e610" upstream="caf_migration/LNX.LA.3.7.2.1_rb1"/>
+  <project name="platform/external/chromium_org_repo" path="external/chromium_org" revision="82e609236e9a89a9bcdbba921063e123f6f8e610" upstream="caf_migration/LNX.LA.3.7.2.1_rb1"/>
   <project name="platform/external/chromium_org/sdch/open-vcdiff" path="external/chromium_org/sdch/open-vcdiff" revision="e485ff1fb732be2dff497b6aed11d5c0d681de82" upstream="caf_migration/LNX.LA.3.7.2.1_rb1"/>
   <project name="platform/external/chromium_org/testing/gtest" path="external/chromium_org/testing/gtest" revision="706ea9132cbcd3be9c623321e0daa6974f6bcfa3" upstream="caf_migration/LNX.LA.3.7.2.1_rb1"/>
   <project name="platform/external/chromium_org/third_party/WebKit" path="external/chromium_org/third_party/WebKit" revision="1b471de30daa6ea92883552a4849b76997f2c407" upstream="caf_migration/LNX.LA.3.7.2.1_rb1"/>
