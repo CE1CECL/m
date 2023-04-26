@@ -2,7 +2,6 @@
 <manifest>
   <remote fetch="http://git.codelinaro.org/clo/la" name="clo" review=""/>
   <remote fetch="http://gitlab.com/codeaurora-mirror/quic/la" name="caf" review=""/>
-  <default remote="clo" revision="caf_migration/LA.BR.1.2.3_rb1.76"/>
   <project groups="pdk" name="device/asus/deb" revision="0e32bac541b31816a435562284045268f0c31a19" remote="clo" upstream="caf_migration/LA.BR.1.2.3_rb1.76"/>
   <project groups="pdk" name="device/asus/flo-kernel" revision="e8d6a140936d217d4223ab9c5f0459eec4821ad6" remote="clo" upstream="caf_migration/LA.BR.1.2.3_rb1.76"/>
   <project groups="pdk" name="device/asus/fugu" revision="c4100265663a85965a67db0170841a7a82fa03ba" remote="clo" upstream="caf_migration/LA.BR.1.2.3_rb1.76"/>

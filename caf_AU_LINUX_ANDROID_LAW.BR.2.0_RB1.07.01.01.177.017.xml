@@ -2,7 +2,6 @@
 <manifest>
   <remote fetch="http://git.codelinaro.org/clo/la" name="clo" review=""/>
   <remote fetch="http://gitlab.com/codeaurora-mirror/quic/la" name="caf" review=""/>
-  <default remote="clo" revision="caf_migration/LAW.BR.2.0_rb1.8"/>
   <project groups="pdk-cw-fs,pdk-fs" name="device/common" revision="ae0d194de6c50014772541ab5dbfebb279ae1c01" remote="clo" upstream="caf_migration/LAW.BR.2.0_rb1.8"/>
   <project groups="pdk" name="device/generic/arm64" revision="d3591759da5ebcde86571ef31cb801e4c628d72a" remote="clo" upstream="caf_migration/LAW.BR.2.0_rb1.8"/>
   <project groups="pdk" name="device/generic/armv7-a-neon" revision="1ebf1a0a8e7417c4826647f30d1dc66aedb2f9f3" remote="clo" upstream="caf_migration/LAW.BR.2.0_rb1.8"/>
